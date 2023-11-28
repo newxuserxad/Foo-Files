@@ -1,1 +1,2 @@
-# G Foo C Files 
+"GONeSAGA"
+To be implemented for all that is forsaken...
